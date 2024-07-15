@@ -15,8 +15,7 @@
 Instalação e Configuração: Instala bibliotecas necessárias
 * Jupyter - Python - Anaconda 
 
-* Bibliotecas :
-*   Numpy - Pandas - Matplotlib.pyplot 
+* Bibliotecas : Numpy - Pandas - Matplotlib.pyplot 
 
 
 ### Carregamento de Dados: Carrega datasets ou modelos pré-treinados
