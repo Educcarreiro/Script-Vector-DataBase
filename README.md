@@ -12,7 +12,7 @@
 
 ### Estrutura do Notebook (Vector Data Base)
 
-Instalação e Configuração: Instala bibliotecas necessárias
+Instalação e Configuração: 
 * Jupyter - Python - Anaconda 
 
 * Bibliotecas : Numpy - Pandas - Matplotlib.pyplot 
